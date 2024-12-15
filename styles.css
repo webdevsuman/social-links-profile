@@ -72,7 +72,7 @@ a {
 /* RESPONSIVE DESIGN */
 @media (max-width: 1000px) {
   body {
-    height: 700px;
+    height: 750px;
   }
   .main {
     width: 360px;
